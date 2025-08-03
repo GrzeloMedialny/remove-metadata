@@ -18,3 +18,4 @@ Skrypt wczytuje obrazy z folderu wejściowego, usuwa metadane, a następnie zapi
 Instalacja Pillow:
 ```bash
 pip install Pillow
+
