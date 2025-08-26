@@ -19,3 +19,4 @@ Instalacja Pillow:
 ```bash
 pip install Pillow
 
+
