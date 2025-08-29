@@ -20,3 +20,4 @@ Instalacja Pillow:
 pip install Pillow
 
 
+
