@@ -32,3 +32,5 @@ if __name__ == "__main__":
     batch_remove_metadata(input_dir, output_dir)
 
 
+
+
