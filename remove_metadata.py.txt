@@ -30,7 +30,3 @@ if __name__ == "__main__":
     output_dir = "output_folder"    # Ścieżka do folderu, gdzie zapiszesz oczyszczone zdjęcia
 
     batch_remove_metadata(input_dir, output_dir)
-
-
-
-
