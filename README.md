@@ -27,6 +27,3 @@ pip install Pillow
 
 
 
-
-
-
