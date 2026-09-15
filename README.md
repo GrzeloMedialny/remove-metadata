@@ -24,11 +24,3 @@ pip install Pillow
 
 
 
-
-
-
-
-
-
-
-
