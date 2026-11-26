@@ -23,3 +23,4 @@ pip install Pillow
 ## Nowy bulid : odczytujemy dane usera który wyświetlił to zdjęcie i dopisujemy do kodu ... 
 
 p9;9;9;9;89;89;890808;789790;;8;8;9;89889;89;'80'800'r th46 6h 36 6355h5he5h 5
+5 6536 536 56 5 56 
